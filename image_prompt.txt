@@ -1,0 +1,248 @@
+Prompt-1 (Playground)| Web Site Logosu Görsel Oluşturma
+-------------------------------------------------------
+"Logo design for a modern and futuristic biotechnology company. Use DNA helix, geometric shapes and sans-serif font in the design. Let the color palette be blue, green and white."
+
+Prompt-2 (Gemini)| Web Site İçeriği İçin Prompt Önerisi Alma
+------------------------------------------------------------
+
+Bir biyoteknoloji şirketinin aşağıda yer alan hizmetleri için yapay zeka araçlarını kullanarak görseller oluşturmak istiyorum. Bu hizmetler için her biri için ayrı ayrı resim, stil ve renk özelliklerinin olduğu 3 adet farklı prompt örneği oluşturabilir misin?
+
+	1. Kişiselleştirilmiş Tıp: DNA diziliminizi analiz ederek size özel tıbbi tavsiyeler ve tedaviler sunuyoruz. Bu sayede 	hastalıkları önceden tahmin edip önlem almanızı ve en uygun tedaviyi almanıza yardımcı oluyoruz.
+
+	2. Gen Tedavisi: Hastalıklı genleri onararak veya değiştirerek hastalıkları kökten tedavi ediyoruz. Bu sayede hem kalıtsal hem de edinilmiş hastalıkları yenmenize yardımcı oluyoruz.
+
+	3. Yaşlanma Karşıtı Tedaviler: Yaşlanma sürecini yavaşlatarak daha uzun ve daha sağlıklı bir yaşam sürmenizi sağlıyoruz. Bu sayede yaşlanmanın getirdiği sağlık problemlerini önleyebilir ve daha enerjik bir hayat yaşayabilirsiniz.
+
+	4. Kanser Tedavisi: En son teknolojileri kullanarak kansere karşı en etkili tedavileri sunuyoruz. Hedefli tedaviler, immünoterapi ve CRISPR gibi yenilikçi yöntemlerle kanseri yenmenize yardımcı oluyoruz.
+
+	5. Organ Nakli:Yapay organ ve doku üreterek organ nakli ihtiyacını ortadan kaldırıyoruz. Bu sayede organ nakli bekleyen hastaların hayatlarını kurtarabilir ve daha kaliteli bir yaşam sürmelerine yardımcı olabiliriz.
+
+	6. Rejeneratif Tıp: Vücudunuzun kendi kendini yenileme yeteneğini kullanarak hasarlı dokuları ve organları onarıyoruz. Bu sayede ameliyatlara ve uzun süren tedavilere ihtiyaç duymadan iyileşmenize yardımcı oluyoruz.
+
+	7. Nöroteknoloji: Beyin-bilgisayar arayüzleri gibi yenilikçi teknolojilerle beyninizin gücünü artırıyoruz. Bu sayede hafızanızı ve konsantrasyonunuzu geliştirebilir, yeni beceriler öğrenebilir ve daha üretken bir hayat yaşayabilirsiniz.
+
+	8. Biyomühendislik: Yapay organlar ve dokular üretmenin yanı sıra, yeni biyomateryaller ve biyomedikal cihazlar geliştiriyoruz. Bu sayede tıbbi tedavilerin daha etkili ve güvenli olmasını sağlıyoruz.
+
+
+Yanıt (Gemini):
+--------------
+	
+	Hizmet: Kişiselleştirilmiş Tıp
+
+		Prompt 1:
+
+		Resim: Bir DNA dizisi üzerinde parlayan bir ışık huzmesi ve yanında bir tıp doktoru ve hastaya bakan bir hologram.
+		Stil: Fütüristik, minimalist
+		Renkler: Mavi, mor ve beyaz
+		
+		Prompt 2:
+
+		Resim: Bir el DNA sarmalını tutuyor ve onu bir kalp şeklinde yeniden şekillendiriyor.
+		Stil: Soyut, duygusal
+		Renkler: Kırmızı, pembe ve turuncu
+		
+		Prompt 3:
+
+		Resim: Bir tablet üzerinde bir hastanın DNA analizinin sonuçlarını gösteren bir grafik ve yanında doktorun hastayla konuşması.
+		Stil: Gerçekçi, bilgilendirici
+		Renkler: Yeşil, mavi ve beyaz
+
+	Hizmet: Gen Tedavisi
+
+		Prompt 1:
+
+		Resim: Bir genin onarılması için çalışan bir robot ve yanında mutlu bir hasta.
+		Stil: Fütüristik, umutlu
+		Renkler: Mavi, yeşil ve beyaz
+		
+		Prompt 2:
+
+		Resim: Bir kelebek bir kozasından çıkıyor ve yanında "Gen Tedavisi ile Yeni Bir Hayat" yazısı.
+		Stil: Sembolik, motive edici
+		Renkler: Mavi, mor ve yeşil
+		
+		Prompt 3:
+
+		Resim: Bir gen haritası üzerinde çalışan bir bilim insanı ve yanında bir mikroskop.
+		Stil: Gerçekçi, bilgilendirici
+		Renkler: Mavi, gri ve beyaz
+
+	Hizmet: Yaşlanma Karşıtı Tedaviler
+
+		Prompt 1:
+
+		Resim: Yaşlanan bir insanın gençleştiği ve yanında "Yaşlanma Karşıtı Tedaviler ile Daha Uzun ve Daha Sağlıklı Bir Yaşam" yazısı.
+		Stil: Fütüristik, umutlu
+		Renkler: Mavi, yeşil ve beyaz
+		
+		Prompt 2:
+
+		Resim: Bir saat geriye dönüyor ve yanında "Yaşlanma Sürecini Yavaşlatın" yazısı.
+		Stil: Soyut, motive edici
+		Renkler: Mavi, mor ve turuncu
+		
+		Prompt 3:
+
+		Resim: Yaşlanma karşıtı bir tedavinin uygulanmasını gösteren bir video ve yanında bir doktorun hastayla konuşması.
+		Stil: Gerçekçi, bilgilendirici
+		Renkler: Yeşil, mavi ve beyaz
+	
+	Hizmet: Kanser Tedavisi
+
+		Prompt 1:
+
+		Resim: Bir kanser hücresini yok eden bir lazer ve yanında "Kansere Karşı En Etkili Tedaviler" yazısı.
+		Stil: Fütüristik, umutlu
+		Renkler: Mavi, kırmızı ve beyaz
+		
+		Prompt 2:
+
+		Resim: Bir el bir kanser hücresini yumruklar ve yanında "Kanseri Yenebilirsiniz" yazısı.
+		Stil: Güçlü, motive edici
+		Renkler: Kırmızı, siyah ve beyaz
+		
+		Prompt 3:
+
+		Resim: Bir kanser hastasının tedaviden sonra iyileştiğini gösteren bir video ve yanında bir doktorun hastayla konuşması.
+		Stil: Gerçekçi, bilgilendirici
+		Renkler: Yeşil, mavi ve beyaz
+		
+	Hizmet: Organ Nakli
+
+		Prompt 1:
+
+		Resim: Bir yapay organın bir hastaya nakledilmesi ve yanında "Organ Nakli İhtiyacını Ortadan Kaldırıyoruz" yazısı.
+		Stil: Fütüristik, umutlu
+		Renkler: Mavi, yeşil ve beyaz
+		
+		Prompt 2:
+
+		Resim: Bir kalp bir kelebeğe dönüşüyor ve yanında "Yaşam Veriyoruz" yazısı.
+		Stil: Sembolik, motive edici
+		Renkler: Kırmızı, pembe ve yeşil
+		
+		Prompt 3:
+
+		Resim: Bir yapay organ üretiminin gösterildiği bir video ve yanında bir doktorun hastayla konuşması.
+		Stil: Gerçekçi, bilgilendirici
+		Renkler: Yeşil, mavi ve beyaz	
+
+	Hizmet: Rejeneratif Tıp
+
+		Prompt 1:
+
+		Resim: Kendi kendini onaran bir kalp ve yanında "Vücudunuzun Kendi Kendini İyileştirme Gücünü Kullanın" yazısı.
+		Stil: Fütüristik, umutlu
+		Renkler: Mavi, yeşil ve beyaz
+	
+		Prompt 2:
+
+		Resim: Bir kırık kemik kendi kendini iyileştiriyor ve yanında "Ameliyatsız İyileşme" yazısı.
+		Stil: Sembolik, motive edici
+		Renkler: Mavi, mor ve yeşil
+	
+		Prompt 3:
+
+		Resim: Rejeneratif tıp tedavisinin uygulanmasını gösteren bir video ve yanında bir doktorun hastayla konuşması.
+		Stil: Gerçekçi, bilgilendirici
+		Renkler: Yeşil, mavi ve beyaz
+
+	Hizmet: Nöroteknoloji
+
+		Prompt 1:
+
+		Resim: Bir beyin-bilgisayar arayüzü kullanan bir kişi ve yanında "Beyninizin Gücünü Artırın" yazısı.
+		Stil: Fütüristik, umutlu
+		Renkler: Mavi, mor ve beyaz
+		
+		Prompt 2:
+
+		Resim: Bir beyin bir ağ ile bağlantılı ve yanında "Sınırsız Potansiyel" yazısı.
+		Stil: Soyut, motive edici
+		Renkler: Mavi, mor ve turuncu
+
+		Prompt 3:
+
+		Resim: Nöroteknolojinin kullanımını gösteren bir video ve yanında bir doktorun hastayla konuşması.
+		Stil: Gerçekçi, bilgilendirici
+		Renkler: Yeşil, mavi ve beyaz
+
+	Hizmet: Biyomühendislik
+
+		Prompt 1:
+
+		Resim: Bir 3D yazıcıda yapay bir organ üretilirken ve yanında "Yapay Organlar ve Dokular Üretiyoruz" yazısı.
+		Stil: Fütüristik, umutlu
+		Renkler: Mavi, yeşil ve beyaz
+		
+		Prompt 2:
+
+		Resim: Bir insan bir robot el ile el sıkışıyor ve yanında "Biyomühendislik ile Geleceği Şekillendiriyoruz" yazısı.
+		Stil: Sembolik, motive edici
+		Renkler: Mavi, mor ve yeşil
+		
+		Prompt 3:
+
+		Resim: Biyomühendislik araştırmalarının gösterildiği bir video ve yanında bir bilim insanının açıklama yapması.
+		Stil: Gerçekçi, bilgilendirici
+		Renkler: Yeşil, mavi ve beyaz
+
+
+Prompt-4 (Playground)| Gemini'den Alınan Promptlar ile Hizmetler İçin Görsel Oluşturma (Hizmet-1)
+-------------------------------------------------------------------------------------------------
+
+Picture: A beam of light shining on a DNA strand and a medical doctor next to it and a hologram looking at the patient.
+Style: Futuristic, minimalist
+Colors: Blue, purple and white
+
+Prompt-5 (Playground)| Gemini'den Alınan Promptlar ile Hizmetler İçin Görsel Oluşturma (Hizmet-2)
+-------------------------------------------------------------------------------------------------
+
+Picture: A scientist working on a gene map and a microscope next to him.
+Style: Realistic, informative
+Colors: Blue, gray and white
+
+Prompt-6 (Playground)| Gemini'den Alınan Promptlar ile Hizmetler İçin Görsel Oluşturma (Hizmet-3)
+-------------------------------------------------------------------------------------------------
+
+Image: A video showing the application of an anti-aging treatment, accompanied by a doctor talking to a patient.
+Style: Realistic, informative
+Colors: Green, blue and white
+
+Prompt-7 (Playground)| Gemini'den Alınan Promptlar ile Hizmetler İçin Görsel Oluşturma (Hizmet-4)
+-------------------------------------------------------------------------------------------------
+
+Image: A hand punches a cancer cell with the words "You Can Beat Cancer" written next to it.
+Style: Powerful, motivational
+Colors: Red, black and white
+
+Prompt-8 (Playground)| Gemini'den Alınan Promptlar ile Hizmetler İçin Görsel Oluşturma (Hizmet-5)
+-------------------------------------------------------------------------------------------------
+
+Picture: A video showing the production of an artificial organ, accompanied by a doctor talking to the patient.
+Style: Realistic, informative
+Colors: Green, blue and white
+
+
+Prompt-9 (Playground)| Gemini'den Alınan Promptlar ile Hizmetler İçin Görsel Oluşturma (Hizmet-6)
+-------------------------------------------------------------------------------------------------
+
+Image: A self-healing heart with the text "Harness Your Body's Self-Healing Power".
+Style: Futuristic, hopeful
+Colors: Blue, green and white
+
+
+Prompt-10 (Playground)| Gemini'den Alınan Promptlar ile Hizmetler İçin Görsel Oluşturma (Hizmet-7)
+-------------------------------------------------------------------------------------------------
+
+Image: A person using a brain-computer interface with the text "Boost Your Brain Power" next to it.
+Style: Futuristic, hopeful
+Colors: Blue, purple and white
+
+
+Prompt-11 (Playground)| Gemini'den Alınan Promptlar ile Hizmetler İçin Görsel Oluşturma (Hizmet-8)
+-------------------------------------------------------------------------------------------------
+
+Picture: An artificial organ being produced on a 3D printer with the text "We Produce Artificial Organs and Tissues" next to it.
+Style: Futuristic, hopeful
+Colors: Blue, green and white
