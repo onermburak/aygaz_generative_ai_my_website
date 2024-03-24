@@ -1,0 +1,92 @@
+Prompt-1|
+--------
+Merhaba Gemini, fütüristik bir biyoteknoloji şirketi için birkaç isim önerisini sunmanı istiyorum.
+
+	Yanıt(Gemini): Vita Aeterna: Latincede "sonsuz yaşam" anlamına gelir ve şirketin yaşlanmayı geciktirme ve insan ömrünü uzatma 		hedefini vurgular.
+
+Prompt-2|
+--------
+
+Vita Aeterna adında bir biyoteknoloji şirketi olduğunu düşün. Bu şirket için sekiz farklı hizmet belirlemeni ve bunların açıklamalarını yazmanı istiyorum.
+	
+	Yanıt(Gemini):Vita Aeterna Biyoteknoloji Hizmetleri
+		1. Kişiselleştirilmiş Tıp:
+
+		DNA diziliminizi analiz ederek size özel tıbbi tavsiyeler ve tedaviler sunuyoruz. Bu sayede hastalıkları önceden tahmin 		edip önlem almanızı ve en uygun tedaviyi almanıza yardımcı oluyoruz.
+
+		2. Gen Tedavisi:
+
+		Hastalıklı genleri onararak veya değiştirerek hastalıkları kökten tedavi ediyoruz. Bu sayede hem kalıtsal hem de 			edinilmiş hastalıkları yenmenize yardımcı oluyoruz.
+
+		3. Yaşlanma Karşıtı Tedaviler:
+
+		Yaşlanma sürecini yavaşlatarak daha uzun ve daha sağlıklı bir yaşam sürmenizi sağlıyoruz. Bu sayede yaşlanmanın getirdiği 		sağlık problemlerini önleyebilir ve daha enerjik bir hayat yaşayabilirsiniz.
+
+		4. Kanser Tedavisi:
+
+		En son teknolojileri kullanarak kansere karşı en etkili tedavileri sunuyoruz. Hedefli tedaviler, immünoterapi ve CRISPR 		gibi yenilikçi yöntemlerle kanseri yenmenize yardımcı oluyoruz.
+
+		5. Organ Nakli:
+
+		Yapay organ ve doku üreterek organ nakli ihtiyacını ortadan kaldırıyoruz. Bu sayede organ nakli bekleyen hastaların 			hayatlarını kurtarabilir ve daha kaliteli bir yaşam sürmelerine yardımcı olabiliriz.
+
+		6. Rejeneratif Tıp:
+
+		Vücudunuzun kendi kendini yenileme yeteneğini kullanarak hasarlı dokuları ve organları onarıyoruz. Bu sayede ameliyatlara 		ve uzun süren tedavilere ihtiyaç duymadan iyileşmenize yardımcı oluyoruz.
+
+		7. Nöroteknoloji:
+
+		Beyin-bilgisayar arayüzleri gibi yenilikçi teknolojilerle beyninizin gücünü artırıyoruz. Bu sayede hafızanızı ve 			konsantrasyonunuzu geliştirebilir, yeni beceriler öğrenebilir ve daha üretken bir hayat yaşayabilirsiniz.
+
+		8. Biyomühendislik:
+
+		Yapay organlar ve dokular üretmenin yanı sıra, yeni biyomateryaller ve biyomedikal cihazlar geliştiriyoruz. Bu sayede 			tıbbi tedavilerin daha etkili ve güvenli olmasını sağlıyoruz.
+
+		Vita Aeterna Biyoteknoloji olarak, en son bilimsel ve teknolojik gelişmeleri kullanarak insan ömrünü uzatmayı ve yaşam 			kalitesini artırmayı hedefliyoruz.
+
+Prompt-3|
+--------
+
+Yazdığın bu bilgileri kullanarak bu şirketin web sitesini kodlamanı istiyorum. Bu kodu yazarken bir ön web geliştiricisi olarak hareket etmeni istiyorum.
+	1-Bu web sitesinde semantik HTML formatına uygun header, main, nav, section, article, aside, footer etiketleri bulunmalıdır.  
+	2-Geliştireceğin projeyi HTML ve CSS için CDN'yi kullanan bootstrap çerçevesi araçlarını kullanarak kodlamalısın. 
+	3-Kodladığın bu web sitesi tek sayfa formatında ve mobil uyumlu olmalıdır. 
+	4-Düzen ve stil açısından site yapısı içerisinde Twitter bootstrap CSS sınıflarının en son sürümü yer almalıdır. 
+	5 HTML ve CSS kodlarını ayrı ayrı verilmelidir. 
+	6-Sayfa içerisindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisin.
+	7-Sayfanın header ve footer bölümünde bir logo yer almalıdır. 
+	8-Site minimal ve modern bir tasarıma sahip olmalıdır.
+Eğer her şeyi anladıysan aşağıda belirttiğim özellikleri dikkate almalısın.
+
+Geliştireceğin bu web sitesi bir portfolyo-galeri web sitesidir.
+	1-Bu sitede Vita Aeterna adlı biyoteknoloji şirketinin hizmetlerinin yer almalıdır. 
+	2-Sitenin galeri bölümünde şirketin sekiz farklı hizmeti gösterilmelidir. 
+	3-Bu sekiz hizmetin başlık ve açıklamalarını da senin tarafından yazılmalıdır. 
+	4-Galeri bölümünde 200x300 boyutlarında resimler yer almalı ve burada yer alacak resim içeriğinin kırpılmalıdır.
+	5-Ayrıca resimlerin üzerine gelindiğinde bir geçiş efekti olmalıdır.
+	Eğer her şeyi anladıysan bu web sitesinin kodunu yazmaya başlayabilirsin.
+
+Prompt-4|
+--------
+HTML kodu bu kadar mı? Eğer değilse yazmaya devam et lütfen.
+
+Prompt-5|
+--------
+HTML kodu bu kadar mı? Eğer değilse yazmaya devam et lütfen.
+
+Prompt-6|
+--------
+Header ve footer bölümünü renklendirerek HTML ve CSS kodunu tekrardan yazabilir misin?
+
+Prompt-7|
+--------
+CSS kodunu tekrar yazabilir misin? Resimlerin üzerine gelindiğinde bir geçiş efekti olmalıdır.
+
+Prompt-8|
+--------
+Footer bölümünde de logo bulunmalıdır. HTML kodunu düzenleyip tekrar yazabilir misin?
+
+Prompt-9|
+--------
+Favicon kodu yazabilir misin?
+
